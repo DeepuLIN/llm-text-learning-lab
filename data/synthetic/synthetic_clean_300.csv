@@ -1,0 +1,261 @@
+text,label,source
+I need to check the status of my latest order.,order_status,synthetic
+Can I cancel my order that I placed yesterday?,cancel_request,synthetic
+I received the wrong item and I want a refund.,refund_request,synthetic
+Is there a discount available for the product I am interested in?,product_question,synthetic
+I am dissatisfied with the service I received.,complaint,synthetic
+Where can I find the return policy for my purchase?,product_question,synthetic
+I would like to return an item that I no longer need.,refund_request,synthetic
+How long will it take for my order to arrive?,order_status,synthetic
+Can you help me track my order?,order_status,synthetic
+I want to cancel my order because I changed my mind.,cancel_request,synthetic
+What is the status of my order?,order_status,synthetic
+"I need to cancel my order, can you assist me?",cancel_request,synthetic
+I want to request a refund for my purchase.,refund_request,synthetic
+Is the new model of the laptop available in black?,product_question,synthetic
+I received my package late and I'm dissatisfied with the service.,complaint,synthetic
+Could you tell me how long my order will take to arrive?,order_status,synthetic
+I accidentally placed an order and want to cancel it immediately.,cancel_request,synthetic
+"I am unhappy with the color of the dress I bought, can I return it?",refund_request,synthetic
+Is there a way to extend the warranty on my device?,product_question,synthetic
+I am frustrated with the poor quality of the headphones I ordered.,complaint,synthetic
+I need to check the status of my order number 12345.,order_status,synthetic
+Can someone assist me with canceling my order?,cancel_request,synthetic
+I am looking to request a refund for my purchase made last week.,refund_request,synthetic
+Is the blue version of the product available?,product_question,synthetic
+I received my order late and I am quite upset about the inconvenience.,complaint,synthetic
+Could you tell me how long it will take to deliver my order?,order_status,synthetic
+I want to cancel my order 67890.,cancel_request,synthetic
+"I am having trouble with my order, can you help me get a refund?",refund_request,synthetic
+Can I know the color options for the product I bought?,product_question,synthetic
+"I am unhappy with the service I received, can I get a refund?",complaint,synthetic
+What is the status of my recent order?,order_status,synthetic
+"I'd like to cancel my order, please.",cancel_request,synthetic
+"I need a refund for my purchase, how do I proceed?",refund_request,synthetic
+Is there a blue version available for this product?,product_question,synthetic
+I received a defective product and want to return it.,complaint,synthetic
+Can you update me on when my order will arrive?,order_status,synthetic
+I want to cancel my order and request a full refund.,refund_request,synthetic
+What should I do if I accidentally ordered something?,order_status,synthetic
+"I'm unhappy with the quality of my product, can I get a refund?",refund_request,synthetic
+Is it possible to exchange this item for a different color?,product_question,synthetic
+Can you tell me the status of my order?,order_status,synthetic
+"I want to cancel my order, please help me with that.",cancel_request,synthetic
+I need to request a refund for my recent purchase.,refund_request,synthetic
+Is the blue version of this product available?,product_question,synthetic
+My order arrived late and I'm very disappointed.,complaint,synthetic
+Could you update me on when my order will be delivered?,order_status,synthetic
+I want to cancel my order and receive a full refund.,cancel_request,synthetic
+I would like to ask for a refund due to a defect in the product.,refund_request,synthetic
+Can you provide more information about the features of this product?,product_question,synthetic
+I am unhappy with the service I received and want to lodge a complaint.,complaint,synthetic
+I need to cancel my order immediately,cancel_request,synthetic
+How can I request a refund for my purchase?,refund_request,synthetic
+Is it possible to return this product?,refund_request,synthetic
+Where can I find information about the color options?,product_question,synthetic
+"My order hasn't arrived yet, what's happening?",order_status,synthetic
+I want to cancel my order because it was the wrong size.,cancel_request,synthetic
+I received a damaged product and I want a refund.,refund_request,synthetic
+"I am unhappy with my recent purchase, how do I return it?",refund_request,synthetic
+The product I received doesn't match the description on the website.,complaint,synthetic
+Can you check the status of my order?,order_status,synthetic
+"I need to cancel my order, please assist me.",cancel_request,synthetic
+I would like to request a refund for my purchase.,refund_request,synthetic
+Is the blue version of the product still available?,product_question,synthetic
+I am not satisfied with the product quality and want to file a complaint.,complaint,synthetic
+Could you tell me when my order will arrive?,order_status,synthetic
+I want to return this product and ask for a refund.,refund_request,synthetic
+Does your store offer a blue version of this product?,product_question,synthetic
+I received my order late and I am unhappy with the service.,complaint,synthetic
+Can you check the status of my order number 12345?,order_status,synthetic
+I'd like to cancel my order with ID 98765.,cancel_request,synthetic
+I need to request a refund for my purchase with order ID 54321.,refund_request,synthetic
+Is it possible to return this product? I want to know the return policy.,product_question,synthetic
+My order arrived late and I am unhappy with the service.,complaint,synthetic
+I want to ask about the availability of the new smartphone model.,product_question,synthetic
+I received a damaged item and I want to know how to proceed with a refund.,refund_request,synthetic
+Could you please update me on the status of my order?,order_status,synthetic
+I am unhappy with the quality of the product I received. What can I do?,complaint,synthetic
+I need to check the status of my order.,order_status,synthetic
+Can you help me cancel my order?,cancel_request,synthetic
+How do I request a refund for my purchase?,refund_request,synthetic
+Does your store offer the product I asked about?,product_question,synthetic
+I received my order late and I'm disappointed.,complaint,synthetic
+Can you update me on when my order will be shipped?,order_status,synthetic
+I want to cancel my order before it ships.,cancel_request,synthetic
+Is there a way to get a refund for a product that didn't meet my expectations?,refund_request,synthetic
+Is it possible to get a replacement for the product I received?,product_question,synthetic
+I am unhappy with the service I received and want to express my complaint.,complaint,synthetic
+I placed an order yesterday and I want to know the status.,order_status,synthetic
+I accidentally bought something and need a refund.,refund_request,synthetic
+Is the latest model of the phone available in black?,product_question,synthetic
+I received my package but the product is broken.,complaint,synthetic
+Can you tell me how long it will take for my order to arrive?,order_status,synthetic
+I need to cancel my order because I changed my mind.,cancel_request,synthetic
+Is it possible to get a refund for the software I downloaded?,refund_request,synthetic
+What is the warranty period for this laptop?,product_question,synthetic
+I am dissatisfied with the service I received and want to file a complaint.,complaint,synthetic
+Has my order shipped yet?,order_status,synthetic
+I want to cancel my order,cancel_request,synthetic
+I need a refund for my purchase,refund_request,synthetic
+Is there a blue version of this phone available?,product_question,synthetic
+I received the wrong item in my order,order_status,synthetic
+Can I get my money back for this order?,refund_request,synthetic
+I am unhappy with the quality of the product,complaint,synthetic
+I want to cancel my order and return the product,cancel_request,synthetic
+Can I get a replacement for this defective product?,refund_request,synthetic
+"I haven't received my order yet, what should I do?",order_status,synthetic
+Can I cancel my order before it ships?,cancel_request,synthetic
+"I need to return a product I bought online, how can I do that?",refund_request,synthetic
+Is there a version of your software available in French?,product_question,synthetic
+"My recent order arrived with the wrong item, this is unacceptable!",complaint,synthetic
+"I want to know the status of my order, can you help me with that?",order_status,synthetic
+"I would like to cancel my order, please let me know the steps to do so.",cancel_request,synthetic
+"I am considering returning a purchase I made, what are the return policies?",refund_request,synthetic
+Can you tell me more about the features of your product?,product_question,synthetic
+"I'm unhappy with the service I received, how can I express my complaint?",complaint,synthetic
+"My order hasn't arrived yet, when can I expect it?",order_status,synthetic
+"I'd like to cancel my order, please proceed with the cancellation.",cancel_request,synthetic
+I received a damaged product and would like to request a refund.,refund_request,synthetic
+Does your website offer a blue version of this backpack?,product_question,synthetic
+I am very disappointed with the late delivery and poor service.,complaint,synthetic
+Can you provide me with the status of my order?,order_status,synthetic
+I want to cancel my order and get a refund for it.,cancel_request,synthetic
+Can I get a refund for the shoes I ordered last week?,refund_request,synthetic
+Is it possible to change the color of my order from red to blue?,product_question,synthetic
+I am unhappy with the customer service I received.,complaint,synthetic
+"I can't find my order number, can you help?",order_status,synthetic
+"I want to cancel my order, please let me know how to proceed.",cancel_request,synthetic
+Can I get a refund for the purchase I made last week?,refund_request,synthetic
+"Is this product still available, and what are the colors?",product_question,synthetic
+"I received a damaged product, what should I do?",complaint,synthetic
+Can you update me on the status of my order?,order_status,synthetic
+"I need to cancel my order before it ships, how can I do this?",cancel_request,synthetic
+"I'm looking to get a refund for my order, what is the process?",refund_request,synthetic
+"I have a question about the features of the product I bought, who can assist me?",product_question,synthetic
+"I'm unhappy with my purchase and want to file a complaint, where do I start?",complaint,synthetic
+"I'd like to request a refund for my purchase, please guide me through the process.",refund_request,synthetic
+Is it possible to get a blue version of this product?,product_question,synthetic
+I received the wrong item and I'm quite upset about it.,complaint,synthetic
+Could you update me on the status of my delivery?,order_status,synthetic
+"I want to cancel my order number 12345, please confirm.",cancel_request,synthetic
+"I paid for a premium account upgrade, but it seems not to have been applied yet.",product_question,synthetic
+"I want to cancel my subscription to your service, how can I do that?",cancel_request,synthetic
+"My package arrived damaged, and I am very unhappy with the quality.",complaint,synthetic
+What’s the status of my order?,order_status,synthetic
+"I’d like to cancel my order, please.",cancel_request,synthetic
+Can I get a refund for my purchase?,refund_request,synthetic
+Is there a blue version of this product available?,product_question,synthetic
+My order arrived late and I am disappointed.,complaint,synthetic
+Can I return this product without a receipt?,refund_request,synthetic
+How do I track my order?,order_status,synthetic
+"I want to cancel my order, it’s too late for me to use it.",cancel_request,synthetic
+"I received the wrong item, how can I exchange it?",complaint,synthetic
+Can I get a replacement for this damaged product?,refund_request,synthetic
+"I would like to cancel my order, please process it.",cancel_request,synthetic
+"I received my package but the product is broken, I need a refund.",refund_request,synthetic
+Is this the latest version of the gadget I ordered?,product_question,synthetic
+My order arrived late and I am extremely dissatisfied with the service.,complaint,synthetic
+I want to cancel my order and get a refund instead.,refund_request,synthetic
+Is it possible to return this product for a full refund?,refund_request,synthetic
+I am having trouble understanding the features of the product I bought.,product_question,synthetic
+I am unhappy with the quality of the product and want to lodge a complaint.,complaint,synthetic
+What is the status of my order number 12345?,order_status,synthetic
+I want to cancel my order with ID 67890.,cancel_request,synthetic
+Is the new product available in red color?,product_question,synthetic
+My delivery was late and I am very dissatisfied.,complaint,synthetic
+Can you tell me more about the warranty for my product?,product_question,synthetic
+"I received the wrong item, can you help me exchange it?",complaint,synthetic
+I need to know when my order will arrive.,order_status,synthetic
+I would like to cancel my order before it ships.,cancel_request,synthetic
+Can I get a refund for my order if I am not satisfied with the product?,refund_request,synthetic
+"I need to request a refund for my recent purchase, how can I do that?",refund_request,synthetic
+Does your store offer international shipping?,product_question,synthetic
+"I am disappointed with the product I received, it's not working as expected.",complaint,synthetic
+Is there a way to return an item that I changed my mind about purchasing?,refund_request,synthetic
+Can you provide information about the delivery time for my order?,order_status,synthetic
+"I received my package, but the color of the product is different from what I ordered.",product_question,synthetic
+"I would like to cancel my order, what do I need to do?",cancel_request,synthetic
+"I am unhappy with the service I received, what steps can I take?",complaint,synthetic
+"My package hasn't arrived yet, what's the status?",order_status,synthetic
+"I need to cancel my order, can you help me with that?",cancel_request,synthetic
+"I received the wrong item, how do I get a refund?",refund_request,synthetic
+Is this smartphone compatible with Android apps?,product_question,synthetic
+"The delivery person left my package outside and now it's wet, what should I do?",complaint,synthetic
+Can I track my order with the order number 123456789?,order_status,synthetic
+I want to cancel my purchase because I changed my mind,cancel_request,synthetic
+"I accidentally ordered double the amount of this product, can I return the excess?",refund_request,synthetic
+Does this laptop come with a warranty?,product_question,synthetic
+I am very dissatisfied with the customer service I received,complaint,synthetic
+I need to check the status of my recent order.,order_status,synthetic
+Can I cancel my order that was placed last week?,cancel_request,synthetic
+I'd like to request a refund for my purchase made this month.,refund_request,synthetic
+Is the wireless charger compatible with my phone?,product_question,synthetic
+I received my order late and I'm disappointed with the service.,complaint,synthetic
+Can you tell me if my order is still processing?,order_status,synthetic
+"I think I was overcharged, can I get a refund?",refund_request,synthetic
+I am extremely unhappy with the product quality.,complaint,synthetic
+"I haven't received my package yet, can you check the status?",order_status,synthetic
+"I'd like to stop my recurring payments, please cancel my order.",cancel_request,synthetic
+"I purchased a coffee maker last week and it stopped working, how do I get my money back?",refund_request,synthetic
+Can I change the color of my order to red?,product_question,synthetic
+"The delivery driver left the package outside, it's freezing cold!",complaint,synthetic
+Is there a way to track my order online?,order_status,synthetic
+"I accidentally ordered two shirts, can I return one?",refund_request,synthetic
+Does the headphones come with an extra cable?,product_question,synthetic
+"I got a broken vase, who do I contact for a replacement?",complaint,synthetic
+"I want to cancel my order, I forgot to confirm it earlier.",cancel_request,synthetic
+What's the current status of my order?,order_status,synthetic
+"I would like to cancel my order, please.",cancel_request,synthetic
+Is this product available in different sizes?,product_question,synthetic
+I am dissatisfied with the quality of the product I received.,complaint,synthetic
+I need to cancel my order immediately.,cancel_request,synthetic
+I want to return this product and get my money back.,refund_request,synthetic
+Does this product come with a warranty?,product_question,synthetic
+My order arrived late and I am very upset.,complaint,synthetic
+"My order hasn't arrived yet, can you check the status?",order_status,synthetic
+"I'd like to cancel my order, please process this for me.",cancel_request,synthetic
+"I received my package, but there's an issue with the product. Can I get a refund?",refund_request,synthetic
+Is it possible to return this item if I change my mind?,refund_request,synthetic
+Is the wireless mouse compatible with Windows?,product_question,synthetic
+I'm frustrated because my package arrived late and my order was incomplete.,complaint,synthetic
+I placed an order last week and still haven't received an update on its progress.,order_status,synthetic
+"I just got my order, but I made a mistake in the address. How do I go about correcting this?",order_status,synthetic
+"I want to cancel my order, but I haven't paid yet. What do I do?",cancel_request,synthetic
+I received a damaged product and I need to return it. How do I proceed with a refund?,refund_request,synthetic
+"I haven't received my package yet, what's the status?",order_status,synthetic
+"I want to cancel my order, can you help me with that?",cancel_request,synthetic
+Can I return this product for a full refund?,refund_request,synthetic
+Is there a discount available for my next purchase?,product_question,synthetic
+"My order arrived late and the packaging was damaged, I am very disappointed!",complaint,synthetic
+Could you please confirm if my order has been shipped?,order_status,synthetic
+I would like to cancel my order number 12345.,cancel_request,synthetic
+How can I request a refund for my order?,refund_request,synthetic
+Is there a way to track my order?,order_status,synthetic
+I am unhappy with the service and I want to cancel my order immediately.,cancel_request,synthetic
+I need a refund for my recent purchase.,refund_request,synthetic
+Is this product available in a larger size?,product_question,synthetic
+The delivery was late and I'm quite upset about it.,complaint,synthetic
+Can I return this product if I'm not satisfied?,refund_request,synthetic
+I have a question about the features of this product.,product_question,synthetic
+"I forgot my order number, can you help me find it?",order_status,synthetic
+The software I purchased doesn't work on my computer.,complaint,synthetic
+When will my package arrive?,order_status,synthetic
+"I need to cancel my order, please help me with that.",cancel_request,synthetic
+Is it possible to return this product and get a refund?,refund_request,synthetic
+Can I change the delivery address for my order?,product_question,synthetic
+The color of the product I received is different from what was advertised.,complaint,synthetic
+What steps should I follow to report a damaged item in my order?,complaint,synthetic
+Can I update my billing information for the order I placed?,order_status,synthetic
+"I would like to cancel my order, how do I proceed?",cancel_request,synthetic
+"I am looking for information on how to return an item, can you assist?",refund_request,synthetic
+Is this product available in larger sizes?,product_question,synthetic
+I would like to cancel my order.,cancel_request,synthetic
+I need to request a refund for my purchase.,refund_request,synthetic
+Is the red version of your product still available?,product_question,synthetic
+My recent order arrived late and I'm disappointed.,complaint,synthetic
+"I received the wrong item, how can I return it?",refund_request,synthetic
+Can I get a status update on my order?,order_status,synthetic
+I want to cancel my order and return the product.,cancel_request,synthetic
+Is there a way to exchange my product for a different color?,product_question,synthetic
+My order was delivered to the wrong address and I'm upset.,complaint,synthetic

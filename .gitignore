@@ -1,6 +1,15 @@
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+
+# Env
 .env
-data/
-outputs/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# FAISS / vector db (if later)
+faiss_index/
+
+# OS
+.DS_Store

@@ -1,0 +1,1302 @@
+[
+  {
+    "text": "I need to check the status of my latest order.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I cancel my order that I placed yesterday?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item and I want a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a discount available for the product I am interested in?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am dissatisfied with the service I received.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Where can I find the return policy for my purchase?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to return an item that I no longer need.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "How long will it take for my order to arrive?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you help me track my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order because I changed my mind.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "What is the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order, can you assist me?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to request a refund for my purchase.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the new model of the laptop available in black?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my package late and I'm dissatisfied with the service.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you tell me how long my order will take to arrive?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I accidentally placed an order and want to cancel it immediately.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the color of the dress I bought, can I return it?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a way to extend the warranty on my device?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am frustrated with the poor quality of the headphones I ordered.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to check the status of my order number 12345.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can someone assist me with canceling my order?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am looking to request a refund for my purchase made last week.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the blue version of the product available?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my order late and I am quite upset about the inconvenience.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you tell me how long it will take to deliver my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order 67890.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am having trouble with my order, can you help me get a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I know the color options for the product I bought?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the service I received, can I get a refund?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "What is the status of my recent order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to cancel my order, please.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need a refund for my purchase, how do I proceed?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a blue version available for this product?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received a defective product and want to return it.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you update me on when my order will arrive?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order and request a full refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "What should I do if I accidentally ordered something?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'm unhappy with the quality of my product, can I get a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to exchange this item for a different color?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you tell me the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order, please help me with that.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to request a refund for my recent purchase.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the blue version of this product available?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order arrived late and I'm very disappointed.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you update me on when my order will be delivered?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order and receive a full refund.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to ask for a refund due to a defect in the product.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you provide more information about the features of this product?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the service I received and want to lodge a complaint.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order immediately",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "How can I request a refund for my purchase?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to return this product?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Where can I find information about the color options?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order hasn't arrived yet, what's happening?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order because it was the wrong size.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received a damaged product and I want a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with my recent purchase, how do I return it?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "The product I received doesn't match the description on the website.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you check the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order, please assist me.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to request a refund for my purchase.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the blue version of the product still available?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am not satisfied with the product quality and want to file a complaint.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you tell me when my order will arrive?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to return this product and ask for a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does your store offer a blue version of this product?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my order late and I am unhappy with the service.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you check the status of my order number 12345?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to cancel my order with ID 98765.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to request a refund for my purchase with order ID 54321.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to return this product? I want to know the return policy.",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order arrived late and I am unhappy with the service.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to ask about the availability of the new smartphone model.",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received a damaged item and I want to know how to proceed with a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you please update me on the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the quality of the product I received. What can I do?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to check the status of my order.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you help me cancel my order?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "How do I request a refund for my purchase?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does your store offer the product I asked about?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my order late and I'm disappointed.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you update me on when my order will be shipped?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order before it ships.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a way to get a refund for a product that didn't meet my expectations?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to get a replacement for the product I received?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the service I received and want to express my complaint.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I placed an order yesterday and I want to know the status.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I accidentally bought something and need a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the latest model of the phone available in black?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my package but the product is broken.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you tell me how long it will take for my order to arrive?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order because I changed my mind.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to get a refund for the software I downloaded?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "What is the warranty period for this laptop?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am dissatisfied with the service I received and want to file a complaint.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Has my order shipped yet?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need a refund for my purchase",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a blue version of this phone available?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item in my order",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get my money back for this order?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the quality of the product",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order and return the product",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a replacement for this defective product?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I haven't received my order yet, what should I do?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I cancel my order before it ships?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to return a product I bought online, how can I do that?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a version of your software available in French?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My recent order arrived with the wrong item, this is unacceptable!",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to know the status of my order, can you help me with that?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order, please let me know the steps to do so.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am considering returning a purchase I made, what are the return policies?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you tell me more about the features of your product?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'm unhappy with the service I received, how can I express my complaint?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order hasn't arrived yet, when can I expect it?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to cancel my order, please proceed with the cancellation.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received a damaged product and would like to request a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does your website offer a blue version of this backpack?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am very disappointed with the late delivery and poor service.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you provide me with the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order and get a refund for it.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a refund for the shoes I ordered last week?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to change the color of my order from red to blue?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the customer service I received.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I can't find my order number, can you help?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order, please let me know how to proceed.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a refund for the purchase I made last week?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is this product still available, and what are the colors?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received a damaged product, what should I do?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you update me on the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order before it ships, how can I do this?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'm looking to get a refund for my order, what is the process?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I have a question about the features of the product I bought, who can assist me?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'm unhappy with my purchase and want to file a complaint, where do I start?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to request a refund for my purchase, please guide me through the process.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to get a blue version of this product?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item and I'm quite upset about it.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you update me on the status of my delivery?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order number 12345, please confirm.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I paid for a premium account upgrade, but it seems not to have been applied yet.",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my subscription to your service, how can I do that?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "My package arrived damaged, and I am very unhappy with the quality.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "What\u2019s the status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I\u2019d like to cancel my order, please.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a refund for my purchase?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a blue version of this product available?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order arrived late and I am disappointed.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I return this product without a receipt?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "How do I track my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order, it\u2019s too late for me to use it.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item, how can I exchange it?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a replacement for this damaged product?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order, please process it.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my package but the product is broken, I need a refund.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is this the latest version of the gadget I ordered?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order arrived late and I am extremely dissatisfied with the service.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order and get a refund instead.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to return this product for a full refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am having trouble understanding the features of the product I bought.",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the quality of the product and want to lodge a complaint.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "What is the status of my order number 12345?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order with ID 67890.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the new product available in red color?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My delivery was late and I am very dissatisfied.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you tell me more about the warranty for my product?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item, can you help me exchange it?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to know when my order will arrive.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order before it ships.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a refund for my order if I am not satisfied with the product?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to request a refund for my recent purchase, how can I do that?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does your store offer international shipping?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am disappointed with the product I received, it's not working as expected.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a way to return an item that I changed my mind about purchasing?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you provide information about the delivery time for my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my package, but the color of the product is different from what I ordered.",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order, what do I need to do?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the service I received, what steps can I take?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "My package hasn't arrived yet, what's the status?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order, can you help me with that?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item, how do I get a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is this smartphone compatible with Android apps?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "The delivery person left my package outside and now it's wet, what should I do?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I track my order with the order number 123456789?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my purchase because I changed my mind",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I accidentally ordered double the amount of this product, can I return the excess?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does this laptop come with a warranty?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am very dissatisfied with the customer service I received",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to check the status of my recent order.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I cancel my order that was placed last week?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to request a refund for my purchase made this month.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the wireless charger compatible with my phone?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my order late and I'm disappointed with the service.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can you tell me if my order is still processing?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I think I was overcharged, can I get a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am extremely unhappy with the product quality.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I haven't received my package yet, can you check the status?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to stop my recurring payments, please cancel my order.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I purchased a coffee maker last week and it stopped working, how do I get my money back?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I change the color of my order to red?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "The delivery driver left the package outside, it's freezing cold!",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a way to track my order online?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I accidentally ordered two shirts, can I return one?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does the headphones come with an extra cable?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I got a broken vase, who do I contact for a replacement?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order, I forgot to confirm it earlier.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "What's the current status of my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order, please.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is this product available in different sizes?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am dissatisfied with the quality of the product I received.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order immediately.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to return this product and get my money back.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Does this product come with a warranty?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order arrived late and I am very upset.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order hasn't arrived yet, can you check the status?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'd like to cancel my order, please process this for me.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received my package, but there's an issue with the product. Can I get a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to return this item if I change my mind?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the wireless mouse compatible with Windows?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I'm frustrated because my package arrived late and my order was incomplete.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I placed an order last week and still haven't received an update on its progress.",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I just got my order, but I made a mistake in the address. How do I go about correcting this?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order, but I haven't paid yet. What do I do?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received a damaged product and I need to return it. How do I proceed with a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I haven't received my package yet, what's the status?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order, can you help me with that?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I return this product for a full refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a discount available for my next purchase?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order arrived late and the packaging was damaged, I am very disappointed!",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Could you please confirm if my order has been shipped?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order number 12345.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "How can I request a refund for my order?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a way to track my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am unhappy with the service and I want to cancel my order immediately.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need a refund for my recent purchase.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is this product available in a larger size?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "The delivery was late and I'm quite upset about it.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I return this product if I'm not satisfied?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I have a question about the features of this product.",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I forgot my order number, can you help me find it?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "The software I purchased doesn't work on my computer.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "When will my package arrive?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to cancel my order, please help me with that.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is it possible to return this product and get a refund?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I change the delivery address for my order?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "The color of the product I received is different from what was advertised.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "What steps should I follow to report a damaged item in my order?",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I update my billing information for the order I placed?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order, how do I proceed?",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I am looking for information on how to return an item, can you assist?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is this product available in larger sizes?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "I would like to cancel my order.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "I need to request a refund for my purchase.",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is the red version of your product still available?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My recent order arrived late and I'm disappointed.",
+    "label": "complaint",
+    "source": "synthetic"
+  },
+  {
+    "text": "I received the wrong item, how can I return it?",
+    "label": "refund_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Can I get a status update on my order?",
+    "label": "order_status",
+    "source": "synthetic"
+  },
+  {
+    "text": "I want to cancel my order and return the product.",
+    "label": "cancel_request",
+    "source": "synthetic"
+  },
+  {
+    "text": "Is there a way to exchange my product for a different color?",
+    "label": "product_question",
+    "source": "synthetic"
+  },
+  {
+    "text": "My order was delivered to the wrong address and I'm upset.",
+    "label": "complaint",
+    "source": "synthetic"
+  }
+]
